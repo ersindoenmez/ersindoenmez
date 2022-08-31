@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ersindoenmez
+### Hi there, I'm Ersin Dönmez 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/donmezersin/)
 
 <!---
 ersindoenmez/ersindoenmez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
