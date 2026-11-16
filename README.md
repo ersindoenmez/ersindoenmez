@@ -1,10 +1,13 @@
-### Hi there, I'm Ersin Dönmez 👋
+## Hi there, I'm Ersin Dönmez – Software Developer in Test
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/donmezersin/)
+Software Developer in Test with around 10 years of experience in testing business-critical systems in payment, banking and logistics. I design test strategies, build test automation frameworks from scratch and integrate them into CI/CD pipelines.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ersindoenmez.ersindoenmez)
+**Currently**
+- Building AI agents with Claude that analyse user stories and generate test cases and Gherkin scenarios with step definitions
+- Learning Python and pytest by testing a TwinCAT3 PLC application
 
-<!---
-ersindoenmez/ersindoenmez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tech stack**
+Java · Selenide / Selenium · Cucumber · RestAssured · Cypress · Robot Framework · GitLab CI · GitHub Actions · Docker · Python / pytest (learning)
+
+**Connect**
+[LinkedIn](https://www.linkedin.com/in/donmezersin)
